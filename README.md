@@ -1,3 +1,5 @@
+[![Click CLI Test](https://github.com/tinayeyee98/devops/actions/workflows/black.yml/badge.svg)](https://github.com/tinayeyee98/devops/actions/workflows/black.yml)
+
 # devops
 This is DevOps Best Practices Repo
 
